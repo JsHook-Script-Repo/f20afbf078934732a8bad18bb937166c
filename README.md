@@ -16,4 +16,4 @@
 * JsHook -> 安装包注入Hook服务 -> 选择下载的安装包 -> 安装 -> 启动
   
 ## 预览
-![image](https://images4.imagebam.com/b5/46/d3/MEFT7HY_o.jpg)
+![image](https://i.imgur.com/yc49Hcz.jpg)
