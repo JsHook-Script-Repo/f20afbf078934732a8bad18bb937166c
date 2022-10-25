@@ -14,13 +14,13 @@
 ## 免root相关
 ### 黑盒方法：
 #### 首次执行：
-* 安装JsHook
-* 安装黑盒，一般来说安装BlackBox64 https://github.com/FBlackBox/BlackBox/releases
-* 打开BlackBox64 -> 右上角三点 -> 软件设置 启动Xposed框架 -> 模块管理 -> 勾选JsHook -> 关闭BlackBox64
-* 打开BlackBox64 -> 点+ -> 龍脈R 和 “兔子头” -> “兔子头”登录，点击OPEN -> 进入游戏主界面后关闭
-* 打开BlackBox64 -> 打开JsHook -> 框架管理 -> 安装FridaMod
-* 打开BlackBox64 -> 打开JsHook -> 仓库 -> 下载脚本
-* 打开BlackBox64 -> 打开JsHook -> 应用 -> 龍脈R -> 启动Hook服务 -> 启动配置(脚本配置) -> 延时设置100 -> 选择注入框架“FridaMod” -> 启动下载的脚本 -> 运行游戏
+1. 安装JsHook
+2. 安装黑盒，一般来说安装BlackBox64 https://github.com/FBlackBox/BlackBox/releases
+3. 打开BlackBox64 -> 右上角三点 -> 软件设置 启动Xposed框架 -> 模块管理 -> 勾选JsHook -> 关闭BlackBox64
+4. 打开BlackBox64 -> 点+ -> 龍脈R 和 “兔子头” -> “兔子头”登录，点击OPEN -> 进入游戏主界面后关闭
+5. 打开BlackBox64 -> 打开JsHook -> 框架管理 -> 安装FridaMod
+6. 打开BlackBox64 -> 打开JsHook -> 仓库 -> 下载脚本
+7. 打开BlackBox64 -> 打开JsHook -> 应用 -> 龍脈R -> 启动Hook服务 -> 启动配置(脚本配置) -> 延时设置100 -> 选择注入框架“FridaMod” -> 启动下载的脚本 -> 运行游戏
 #### 游戏更新后：
 * 应该在外部更新游戏就行了？
 
